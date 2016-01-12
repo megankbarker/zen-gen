@@ -3,6 +3,9 @@ source 'https://rubygems.org'
 # Bootstrap
 gem 'bootstrap-sass', '~> 3.3.5.1'
 
+# Simple form
+gem 'simple_form'
+
 # Sprockets
 gem 'sprockets', '2.11.0'
 
